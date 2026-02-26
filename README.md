@@ -1,16 +1,44 @@
-# React + Vite
+📋 To‑Do List (React + Vite)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Aplicativo de lista de tarefas desenvolvido com React e Vite, permitindo adicionar, marcar como concluída e excluir tarefas de forma dinâmica e interativa.
 
-Currently, two official plugins are available:
+<hr>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🚀 Sobre o Projeto
 
-## React Compiler
+Projeto criado para praticar React com Vite, explorando:
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Criação de componentes reutilizáveis
 
-## Expanding the ESLint configuration
+Gerenciamento de estado com useState
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Integração de lógica dinâmica em uma lista de tarefas
+
+Aplicação de estilos responsivos com CSS3
+
+O app oferece uma interface simples, funcional e leve, ideal para estudo de React moderno.
+
+<hr>
+
+🛠️ Tecnologias
+
+React.js
+
+Vite
+
+JavaScript (ES6+)
+
+CSS3
+
+<hr>
+
+🎓 Créditos
+
+Este projeto foi desenvolvido com base nos ensinamentos de Matheus Battisti, aplicado como prática para consolidar conhecimentos em React moderno e Vite.
+
+<hr>
+
+👨‍💻 Autor
+
+Henrique Handlovics
+🔗 https://github.com/Henrique-Handlovics
