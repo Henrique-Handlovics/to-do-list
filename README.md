@@ -41,4 +41,6 @@ Este projeto foi desenvolvido com base nos ensinamentos de Matheus Battisti, apl
 👨‍💻 Autor
 
 Henrique Handlovics
-🔗 https://github.com/Henrique-Handlovics
+🔗 https://github.com/Henrique-Handlovics <br>
+Projeto
+🔗 https://to-do-list-lovat-omega-26.vercel.app/
