@@ -1,7 +1,7 @@
 const Filter = ({filter, setFilter, setSort}) => {
     return(
         <div className="filter">
-            <h2>filtrar: </h2>
+            <h2>Filtrar: </h2>
             <div className="filter-options">
                 <div>
                     <p>Status: </p>
